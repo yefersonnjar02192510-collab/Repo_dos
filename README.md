@@ -2,7 +2,6 @@
 # repo_dos
 Repositorio para pruebas de trabajo de colaborativo y en grupo 
 
-
 # Proyeccto de uso de herramientas Git contribuyentes
 
 Breve descripcion
