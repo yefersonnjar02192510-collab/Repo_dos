@@ -45,12 +45,10 @@ Breve descripcion
 - Pasos para instalar el proyecto localmente
 ```bash
 https://github.com/yefersonnjar02192510-collab/Repo_dos.git
-
 ```
 
 ---
 ### video tutorial
 
 
-[![Click para ver video](asset/gtr.png)] (https://www.youtube.com/watch?v=1WrJYgM5F9I)
-
+[![Click para ver video](asset/gtr.png)](https://www.youtube.com/watch?v=1WrJYgM5F9I)
