@@ -57,3 +57,10 @@ https://github.com/yefersonnjar02192510-collab/Repo_dos.git
 
 
 [![Click para ver video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwg2PWrY_5mkISXy_GqXWUYPbglvpL6FSUgg&s)](https://www.youtube.com/watch?v=69C77_ek6Hw)
+
+
+---
+
+### Demo 
+Si quieres ver el porgrama der click
+[Open in StackBlitz] (https://stackblitz.com/edit/secret-python-l72dprjj?file=main.py&title=Python%20Starter)
