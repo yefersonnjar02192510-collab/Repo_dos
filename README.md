@@ -63,4 +63,4 @@ https://github.com/yefersonnjar02192510-collab/Repo_dos.git
 
 ### Demo 
 Si quieres ver el porgrama der click
-[Open in StackBlitz] (https://stackblitz.com/edit/secret-python-l72dprjj?file=main.py&title=Python%20Starter)
+[![Open in StackBlitz]] (https://stackblitz.com/edit/secret-python-l72dprjj?file=main.py&title=Python%20Starter)
